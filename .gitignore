@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+outputs/
+*.mp4
+markers/
+calib/gripper_calib.json
